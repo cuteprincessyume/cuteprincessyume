@@ -2,3 +2,8 @@
 <img src="https://file.garden/ag0j9O4MvRy86hKK/IMG_0632.png">
 <h3 align="center">𝒞𝓁𝑜𝓋𝑒𝓇 <img src="https://file.garden/ag0j9O4MvRy86hKK/IMG_0648.gif"width="15" height="15"></h3>
 <img src="https://file.garden/ag0j9O4MvRy86hKK/IMG_0646.png">
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317rd5riymzy7j24fm2emidxjgdi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=FDE6F7&interchange=false&profanity=false&hide_remaster=false&bar_color=DBADCA&bar_color_cover=false&mode=light">
+  </a>
+</p>
